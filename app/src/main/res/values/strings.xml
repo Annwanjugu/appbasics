@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">evening</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_about2">AboutActivity2</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+</resources>
